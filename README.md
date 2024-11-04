@@ -21,3 +21,11 @@
     |- ... // Markdown 文件
   |-assets // 存放图片等富媒体文件
 ```
+
+## Commit 规范
+
+请参考: [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
+
+## 文档撰写规范
+
+请参考: [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/_/downloads/zh-cn/latest/pdf/)
